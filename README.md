@@ -91,7 +91,7 @@ Please check out our Model for all public EarthDial checkpoints, and check demo 
 ## Train 
 
 ### Download Training Data
-Before downloading the datasets, in url = (https://huggingface.co/datasets/akshaydudhane/EarthDial-Dataset/tree/main) ensure that the following directory structure exists:
+Before downloading the datasets, in url = (https://huggingface.co/datasets/akshaydudhane/EarthDial-Dataset/tree/main) ensure that the following directory structure exists (Total 2.49 TB, training_set is 1.31 TB):
 
 ```shell
 mkdir -p src/earthdial/trainset
